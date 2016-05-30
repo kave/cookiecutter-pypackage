@@ -94,6 +94,7 @@ make my own packaging experience better.
 .. _Tox: http://testrun.org/tox/
 .. _Sphinx: http://sphinx-doc.org/
 .. _ReadTheDocs: https://readthedocs.org/
+.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
 .. _`Nekroze/cookiecutter-pypackage`: https://github.com/Nekroze/cookiecutter-pypackage
 .. _`tony/cookiecutter-pypackage-pythonic`: https://github.com/tony/cookiecutter-pypackage-pythonic
 .. _`ardydedase/cookiecutter-pypackage`: https://github.com/ardydedase/cookiecutter-pypackage
