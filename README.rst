@@ -2,23 +2,27 @@
 cookiecutter-pypackage
 ======================
 
-.. image:: https://img.shields.io/travis/audreyr/cookiecutter-pypackage.svg
-   :target: https://travis-ci.org/audreyr/cookiecutter-pypackage
+Cookiecutter_ template for a Python package. Forked from
+`audreyr/cookiecutter-pypackage`_.
 
-Cookiecutter_ template for a Python package.
-
-* GitHub repo: https://github.com/audreyr/cookiecutter-pypackage/
+* GitHub repo: https://github.com/samastur/cookiecutter-pypackage/
 * Free software: BSD license
 
 Features
 --------
 
+Inherited from Audrey's template:
 * Testing setup with ``unittest`` and ``python setup.py test`` or ``py.test``
 * Travis-CI_: Ready for Travis Continuous Integration testing
 * Tox_ testing: Setup to easily test for Python 2.6, 2.7, 3.3, 3.4, 3.5
 * Sphinx_ docs: Documentation ready for generation with, for example, ReadTheDocs_
 * Bumpversion: Pre-configured version bumping with a single command
 * Auto-release to PyPI when you push a new tag to master (optional)
+
+
+Additions
+---------
+* Added coveralls support
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 
